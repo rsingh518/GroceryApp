@@ -29,11 +29,3 @@ Screenshots --
 
 
 ![image](https://user-images.githubusercontent.com/80912984/190585678-44d75bd2-44ca-456f-b2d4-674468278297.png)
-
-
-
-
-
-
-
-

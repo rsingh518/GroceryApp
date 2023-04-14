@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+    <string name="itemRate">Rate</string>
+    <string name="itemQuantity">Quantity</string>
+    <string name="item_name">Item Name</string>
+</resources>

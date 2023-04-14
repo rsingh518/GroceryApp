@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxhdpi_ic_cart_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxhdpi/ic_cart_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-anydpi-v21_ic_cart_foreground.xml.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-anydpi-v21/ic_cart_foreground.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxhdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxhdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-mdpi_ic_cart_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-mdpi/ic_cart_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxxhdpi_ic_cart_foreground.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxxhdpi/ic_cart_foreground.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-mdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-mdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxxhdpi_ic_cart_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxxhdpi/ic_cart_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xhdpi_ic_cart_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xhdpi/ic_cart_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xhdpi_ic_cart_foreground.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xhdpi/ic_cart_foreground.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-hdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-hdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxxhdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxxhdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-ldpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-ldpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxhdpi_ic_add.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-ldpi_ic_add.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-ldpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-hdpi_ic_cart_foreground.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-hdpi/ic_cart_foreground.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxxhdpi_ic_add.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-anydpi-v21_ic_cart.xml.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-anydpi-v21/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-hdpi_ic_cart_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-hdpi/ic_cart_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable_custom_button_back.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/drawable/custom_button_back.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxxhdpi_ic_cart_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxxhdpi/ic_cart_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-anydpi-v21_ic_cart_background.xml.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-anydpi-v21/ic_cart_background.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-hdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-hdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-ldpi_ic_delete.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-ldpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable_groceries.png.flat",
+        "source": "com.example.grocerryapp-main-42:/drawable/groceries.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-hdpi_ic_add.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xhdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xhdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xhdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xhdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxxhdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxxhdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/layout_activity_splash_screen_grocery.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/layout/activity_splash_screen_grocery.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/layout_grocerry_add_dialog.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/layout/grocerry_add_dialog.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-anydpi-v26_ic_cart_round.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-anydpi-v26/ic_cart_round.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-ldpi_ic_cart_foreground.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-ldpi/ic_cart_foreground.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-mdpi_ic_add.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable_shopping_app.png.flat",
+        "source": "com.example.grocerryapp-main-42:/drawable/shopping_app.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-mdpi_ic_delete.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable_spl_img.png.flat",
+        "source": "com.example.grocerryapp-main-42:/drawable/spl_img.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-mdpi_ic_cart_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-mdpi/ic_cart_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-ldpi_ic_cart_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-ldpi/ic_cart_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxhdpi_ic_cart_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxhdpi/ic_cart_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-anydpi-v26_ic_cart.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-anydpi-v26/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxhdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxhdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xxhdpi_ic_cart_foreground.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xxhdpi/ic_cart_foreground.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-mdpi_ic_cart_foreground.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-mdpi/ic_cart_foreground.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xhdpi_ic_cart_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xhdpi/ic_cart_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-hdpi_ic_cart_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-hdpi/ic_cart_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-xhdpi_ic_add.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/drawable-mdpi_ic_cart.png.flat",
+        "source": "com.example.grocerryapp-pngs-35:/drawable-mdpi/ic_cart.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.grocerryapp-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.grocerryapp-merged_res-40:/layout_grocery_rv_item.xml.flat",
+        "source": "com.example.grocerryapp-main-42:/layout/grocery_rv_item.xml"
+    }
+]

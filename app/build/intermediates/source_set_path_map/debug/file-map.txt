@@ -1,0 +1,43 @@
+com.example.grocerryapp-lifecycle-livedata-2.5.1-0 C:\Users\hp\.gradle\caches\transforms-3\0286547602b8942436e2d489981d7bcf\transformed\lifecycle-livedata-2.5.1\res
+com.example.grocerryapp-viewpager2-1.0.0-1 C:\Users\hp\.gradle\caches\transforms-3\0a53f6b4e64d124d9f558ee8b0396eab\transformed\viewpager2-1.0.0\res
+com.example.grocerryapp-appcompat-1.5.1-2 C:\Users\hp\.gradle\caches\transforms-3\13aaaf7fa1be4c498056328bb56d39b1\transformed\appcompat-1.5.1\res
+com.example.grocerryapp-lifecycle-viewmodel-ktx-2.5.1-3 C:\Users\hp\.gradle\caches\transforms-3\28074c19bd704147b9d7fb573753f1fe\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.grocerryapp-material-1.6.1-4 C:\Users\hp\.gradle\caches\transforms-3\3523f6d4015eb6464a132a40a1efde26\transformed\material-1.6.1\res
+com.example.grocerryapp-lifecycle-viewmodel-2.5.1-5 C:\Users\hp\.gradle\caches\transforms-3\386868ccccf6f1e0bf9f1dfae75bfc17\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.grocerryapp-sqlite-framework-2.2.0-6 C:\Users\hp\.gradle\caches\transforms-3\3d53adb9fc7beefe18c795d4181559fe\transformed\sqlite-framework-2.2.0\res
+com.example.grocerryapp-lifecycle-livedata-core-ktx-2.5.1-7 C:\Users\hp\.gradle\caches\transforms-3\45c0f702d6397a76ac60b41f9274afef\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.grocerryapp-fragment-1.3.6-8 C:\Users\hp\.gradle\caches\transforms-3\4add63de1680c519df0d7f9325324183\transformed\fragment-1.3.6\res
+com.example.grocerryapp-recyclerview-1.1.0-9 C:\Users\hp\.gradle\caches\transforms-3\4e0230617f767db5ad13327346361b55\transformed\recyclerview-1.1.0\res
+com.example.grocerryapp-activity-1.5.1-10 C:\Users\hp\.gradle\caches\transforms-3\699963cf2fcdcf38e89acc7d5f9120c7\transformed\activity-1.5.1\res
+com.example.grocerryapp-lifecycle-livedata-ktx-2.5.1-11 C:\Users\hp\.gradle\caches\transforms-3\6a4985da2a05cb819bad76a07d914d0c\transformed\lifecycle-livedata-ktx-2.5.1\res
+com.example.grocerryapp-coordinatorlayout-1.1.0-12 C:\Users\hp\.gradle\caches\transforms-3\7137ddcd3e40b1d9bcf5f9b895f295ef\transformed\coordinatorlayout-1.1.0\res
+com.example.grocerryapp-lifecycle-runtime-ktx-2.5.1-13 C:\Users\hp\.gradle\caches\transforms-3\73951be6876717b7ac7636f858fd13b3\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.grocerryapp-lifecycle-runtime-2.5.1-14 C:\Users\hp\.gradle\caches\transforms-3\76873e9a1c4f41df7ba2f950e16d7f07\transformed\lifecycle-runtime-2.5.1\res
+com.example.grocerryapp-drawerlayout-1.1.1-15 C:\Users\hp\.gradle\caches\transforms-3\769148a04fe2b7154927dcc9b9b1029f\transformed\drawerlayout-1.1.1\res
+com.example.grocerryapp-lifecycle-livedata-core-2.5.1-16 C:\Users\hp\.gradle\caches\transforms-3\7f96655c3b87797a4a3b3fe92d3c0fa1\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.grocerryapp-emoji2-views-helper-1.2.0-17 C:\Users\hp\.gradle\caches\transforms-3\88f1a37f8419a4165feb068dbf0ae714\transformed\emoji2-views-helper-1.2.0\res
+com.example.grocerryapp-core-1.8.0-18 C:\Users\hp\.gradle\caches\transforms-3\8b97fc5b865de238d62f20e792513c79\transformed\core-1.8.0\res
+com.example.grocerryapp-activity-ktx-1.5.1-19 C:\Users\hp\.gradle\caches\transforms-3\94ba737dfa990df2ff26627ae25c5bfe\transformed\activity-ktx-1.5.1\res
+com.example.grocerryapp-savedstate-1.2.0-20 C:\Users\hp\.gradle\caches\transforms-3\973ae161398ea72e339f1ffde19aa5d5\transformed\savedstate-1.2.0\res
+com.example.grocerryapp-transition-1.2.0-21 C:\Users\hp\.gradle\caches\transforms-3\9cb0e36b4335473ab4c895b33c2ebb96\transformed\transition-1.2.0\res
+com.example.grocerryapp-cardview-1.0.0-22 C:\Users\hp\.gradle\caches\transforms-3\a11084b57a54fa3af1dcea5674871480\transformed\cardview-1.0.0\res
+com.example.grocerryapp-lifecycle-process-2.4.1-23 C:\Users\hp\.gradle\caches\transforms-3\a3d65713682b4228529a6aeaccc8a1c9\transformed\lifecycle-process-2.4.1\res
+com.example.grocerryapp-annotation-experimental-1.1.0-24 C:\Users\hp\.gradle\caches\transforms-3\a5a59740dadd40f9147f2867151b7436\transformed\annotation-experimental-1.1.0\res
+com.example.grocerryapp-core-ktx-1.8.0-25 C:\Users\hp\.gradle\caches\transforms-3\b276efe0775871218347fa5f3b326321\transformed\core-ktx-1.8.0\res
+com.example.grocerryapp-savedstate-ktx-1.2.0-26 C:\Users\hp\.gradle\caches\transforms-3\d4c6ebf23b52648bd997716111f32d8e\transformed\savedstate-ktx-1.2.0\res
+com.example.grocerryapp-sqlite-2.2.0-27 C:\Users\hp\.gradle\caches\transforms-3\d5467c12a5249845c9392817b0d4c086\transformed\sqlite-2.2.0\res
+com.example.grocerryapp-room-ktx-2.4.3-28 C:\Users\hp\.gradle\caches\transforms-3\d9eb262a906c70ce7dde8b8551e397b8\transformed\room-ktx-2.4.3\res
+com.example.grocerryapp-startup-runtime-1.1.1-29 C:\Users\hp\.gradle\caches\transforms-3\e4190e13565962f68a8031edc4bcb884\transformed\startup-runtime-1.1.1\res
+com.example.grocerryapp-appcompat-resources-1.5.1-30 C:\Users\hp\.gradle\caches\transforms-3\e62544b6a67edb9d65df7d94d2001219\transformed\appcompat-resources-1.5.1\res
+com.example.grocerryapp-room-runtime-2.4.3-31 C:\Users\hp\.gradle\caches\transforms-3\e68133bcb12b0b7635b3eded72c7657d\transformed\room-runtime-2.4.3\res
+com.example.grocerryapp-emoji2-1.2.0-32 C:\Users\hp\.gradle\caches\transforms-3\e81a217b8ada4681e5dfb778c8383010\transformed\emoji2-1.2.0\res
+com.example.grocerryapp-lifecycle-viewmodel-savedstate-2.5.1-33 C:\Users\hp\.gradle\caches\transforms-3\f4d8ade8d66ea42022f538ee46c8b4c3\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.grocerryapp-constraintlayout-2.1.4-34 C:\Users\hp\.gradle\caches\transforms-3\fc1b238b2c729b795298ecb08ca32a43\transformed\constraintlayout-2.1.4\res
+com.example.grocerryapp-pngs-35 E:\Android dev udemy\GroceryApp\app\build\generated\res\pngs\debug
+com.example.grocerryapp-resValues-36 E:\Android dev udemy\GroceryApp\app\build\generated\res\resValues\debug
+com.example.grocerryapp-rs-37 E:\Android dev udemy\GroceryApp\app\build\generated\res\rs\debug
+com.example.grocerryapp-packageDebugResources-38 E:\Android dev udemy\GroceryApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.grocerryapp-packageDebugResources-39 E:\Android dev udemy\GroceryApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.grocerryapp-merged_res-40 E:\Android dev udemy\GroceryApp\app\build\intermediates\merged_res\debug
+com.example.grocerryapp-debug-41 E:\Android dev udemy\GroceryApp\app\src\debug\res
+com.example.grocerryapp-main-42 E:\Android dev udemy\GroceryApp\app\src\main\res
